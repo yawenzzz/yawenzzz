@@ -1,11 +1,14 @@
 # yawenzzz
 
 ```bash
-$ whoami
-独立开发者
+$ role
+indie developer
 
-$ focus
+$ building
 ai agent / vibe coding / trading
+
+$ loop
+build -> ship -> measure -> repeat
 ```
 
 <p align="center">

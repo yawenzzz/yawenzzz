@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yawen Zheng
+# Hi there
 
 ### AI Builder · Agent Runtime Hacker · Tooling Maximalist
 
@@ -51,6 +51,8 @@
 </p>
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yawenzzz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
 ##  Find Me
 

@@ -19,7 +19,10 @@
 
 ##  About Me
 
-VibeCoder 🦞.
+- vibe coder
+- clawer🦞
+- ai agent
+- ads algo
 ---
 
 ##  GitHub Vibe Check
